@@ -1,0 +1,38 @@
+Structures de données à tester sur Visualgo :
+Tableau dynamique
+
+*Pile
+*Déposer
+*Liste chaînée
+*Arbre binaire de recherche
+*Arbre AVL
+*Arbre B
+*Tas (Tas)
+*Graphiques
+*Trie (préfixe d'arbre)
+
+_Al
+Tri à bulles
+Tri par insertion (Tri par insertion)
+Tri par sélection
+Tri rapide
+Tri-fusion (tri par fusion)
+Tri par tas (Tri par tas)
+
+E
+Arbre B : C'e
+Pourquoi je ne le maîtrise pas encore : C'e
+Exemple d'
+Tri rapide (Quick Sort) : Un
+Pourquoi je ne le maîtrise pas encore: Bien que je
+Actions à
+Testez les différentes structures de données et d'algorithme
+Identifiant
+Exp
+En explorant
+
+Inconvénients
+Regarder les animations plusieurs fois pour bien
+Coder les algorithmes vous- pour même mie
+Pratiquer sur des exemples concrets ,
+Cela de
